@@ -108,6 +108,7 @@ public class Modularizacion {
 			break;
 		case 4:
 			division(num1,num2);
+			break;
 		}																			
 	}
 	static void suma (double num1, double num2) {
